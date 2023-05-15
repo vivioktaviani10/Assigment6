@@ -11,7 +11,7 @@ def main():
 
     if operator == "+":
         result = add(data_1, data_2)
-    elif opera == "*":
+    elif operator == "*":
         result = perkalian(data_1, data_2)
     elif operator == "/":
         result = pembagian(data_1, data_2)
